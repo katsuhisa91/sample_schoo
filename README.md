@@ -4,7 +4,7 @@
 
 ## 講演資料
 * [第一回](https://docs.google.com/presentation/d/1eT9hIYxeUBY3vCzB2QhOTbpTvlTYxfMFwO9bx2-SFyw/edit?usp=sharing)
-* 第二回（TBD）
+* [第二回](https://note.com/katsuhisa_/n/n389d7898e48a)
 
 ## プログラム
 ### 第一回
